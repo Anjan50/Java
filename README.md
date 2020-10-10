@@ -1,7 +1,7 @@
 # Java 
 Different type of Java algorithm &amp; logical example
 
-## Add files in proper folder only
+### Add files in proper folder only
 
 ## Contributors 🦸
 
